@@ -1,0 +1,827 @@
+2018-08-13 16:27:36 INFO  Hooks:17 - Get driver
+2018-08-13 16:27:39 INFO  MainPageSearch:82 - Select car brand
+2018-08-13 16:27:39 INFO  MainPageSearch:95 - Select car model
+2018-08-13 16:27:39 INFO  MainPageSearch:138 - Click search button
+2018-08-13 16:27:44 INFO  SearchPageResults:48 - Check the results of search for the brand and mark car
+2018-08-13 16:27:45 INFO  Hooks:23 - Close Auto Ria
+2018-08-13 16:27:48 INFO  Hooks:17 - Get driver
+2018-08-13 16:27:51 INFO  MainPageSearch:82 - Select car brand
+2018-08-13 16:27:51 INFO  MainPageSearch:95 - Select car model
+2018-08-13 16:27:51 INFO  MainPageSearch:138 - Click search button
+2018-08-13 16:27:56 INFO  SearchPageResults:48 - Check the results of search for the brand and mark car
+2018-08-13 16:27:57 INFO  Hooks:23 - Close Auto Ria
+2018-08-13 16:28:00 INFO  Hooks:17 - Get driver
+2018-08-13 16:28:02 INFO  MainPageSearch:82 - Select car brand
+2018-08-13 16:28:03 INFO  MainPageSearch:95 - Select car model
+2018-08-13 16:28:03 INFO  MainPageSearch:138 - Click search button
+2018-08-13 16:28:07 INFO  SearchPageResults:48 - Check the results of search for the brand and mark car
+2018-08-13 16:28:08 INFO  Hooks:23 - Close Auto Ria
+2018-08-13 16:28:11 INFO  Hooks:17 - Get driver
+2018-08-13 16:28:15 INFO  MainPageSearch:122 - Select year from
+2018-08-13 16:28:15 INFO  MainPageSearch:125 - Select year to
+2018-08-13 16:28:15 INFO  MainPageSearch:138 - Click search button
+2018-08-13 16:28:20 INFO  SearchPageResults:73 - Check the results of search for the year
+2018-08-13 16:28:21 INFO  Hooks:23 - Close Auto Ria
+2018-08-13 16:28:24 INFO  Hooks:17 - Get driver
+2018-08-13 16:28:26 INFO  MainPageSearch:122 - Select year from
+2018-08-13 16:28:27 INFO  MainPageSearch:125 - Select year to
+2018-08-13 16:28:27 INFO  MainPageSearch:138 - Click search button
+2018-08-13 16:28:30 INFO  SearchPageResults:73 - Check the results of search for the year
+2018-08-13 16:28:31 INFO  Hooks:23 - Close Auto Ria
+2018-08-13 16:28:34 INFO  Hooks:17 - Get driver
+2018-08-13 16:28:37 INFO  MainPageSearch:122 - Select year from
+2018-08-13 16:28:37 INFO  MainPageSearch:125 - Select year to
+2018-08-13 16:28:37 INFO  MainPageSearch:138 - Click search button
+2018-08-13 16:28:41 INFO  SearchPageResults:73 - Check the results of search for the year
+2018-08-13 16:28:42 INFO  Hooks:23 - Close Auto Ria
+2018-08-13 16:28:45 INFO  Hooks:17 - Get driver
+2018-08-13 16:28:48 INFO  MainPageSearch:131 - Select price from
+2018-08-13 16:28:48 INFO  MainPageSearch:133 - Select price to
+2018-08-13 16:28:48 INFO  MainPageSearch:138 - Click search button
+2018-08-13 16:28:51 INFO  SearchPageResults:86 - Check the results of search for the price
+2018-08-13 16:28:52 INFO  Hooks:23 - Close Auto Ria
+2018-08-13 16:28:55 INFO  Hooks:17 - Get driver
+2018-08-13 16:28:58 INFO  MainPageSearch:131 - Select price from
+2018-08-13 16:28:58 INFO  MainPageSearch:133 - Select price to
+2018-08-13 16:28:58 INFO  MainPageSearch:138 - Click search button
+2018-08-13 16:29:01 INFO  SearchPageResults:86 - Check the results of search for the price
+2018-08-13 16:29:02 INFO  Hooks:23 - Close Auto Ria
+2018-08-13 16:29:06 INFO  Hooks:17 - Get driver
+2018-08-13 16:29:08 INFO  MainPageSearch:131 - Select price from
+2018-08-13 16:29:08 INFO  MainPageSearch:133 - Select price to
+2018-08-13 16:29:09 INFO  MainPageSearch:138 - Click search button
+2018-08-13 16:29:11 INFO  SearchPageResults:86 - Check the results of search for the price
+2018-08-13 16:29:12 INFO  Hooks:23 - Close Auto Ria
+2018-08-13 16:29:16 INFO  Hooks:17 - Get driver
+2018-08-13 16:29:19 INFO  MainPageSearch:113 - Select region
+2018-08-13 16:29:19 INFO  MainPageSearch:138 - Click search button
+2018-08-13 16:29:23 INFO  SearchPageResults:60 - Check the results of search for the region
+2018-08-13 16:29:23 INFO  Hooks:23 - Close Auto Ria
+2018-08-13 16:29:27 INFO  Hooks:17 - Get driver
+2018-08-13 16:29:30 INFO  MainPageSearch:113 - Select region
+2018-08-13 16:29:30 INFO  MainPageSearch:138 - Click search button
+2018-08-13 16:29:33 INFO  SearchPageResults:60 - Check the results of search for the region
+2018-08-13 16:29:33 INFO  Hooks:23 - Close Auto Ria
+2018-08-13 16:29:37 INFO  Hooks:17 - Get driver
+2018-08-13 16:29:40 INFO  MainPageSearch:113 - Select region
+2018-08-13 16:29:40 INFO  MainPageSearch:138 - Click search button
+2018-08-13 16:29:46 INFO  SearchPageResults:60 - Check the results of search for the region
+2018-08-13 16:29:47 INFO  Hooks:23 - Close Auto Ria
+2018-08-13 16:32:42 INFO  Hooks:17 - Get driver
+2018-08-13 16:32:45 INFO  MainPageSearch:82 - Select car brand
+2018-08-13 16:32:45 INFO  MainPageSearch:95 - Select car model
+2018-08-13 16:32:45 INFO  MainPageSearch:138 - Click search button
+2018-08-13 16:32:49 INFO  SearchPageResults:48 - Check the results of search for the brand and mark car
+2018-08-13 16:32:50 INFO  Hooks:23 - Close Auto Ria
+2018-08-13 16:32:53 INFO  Hooks:17 - Get driver
+2018-08-13 16:32:56 INFO  MainPageSearch:82 - Select car brand
+2018-08-13 16:32:57 INFO  MainPageSearch:95 - Select car model
+2018-08-13 16:32:57 INFO  MainPageSearch:138 - Click search button
+2018-08-13 16:33:02 INFO  SearchPageResults:48 - Check the results of search for the brand and mark car
+2018-08-13 16:33:03 INFO  Hooks:23 - Close Auto Ria
+2018-08-13 16:33:06 INFO  Hooks:17 - Get driver
+2018-08-13 16:33:19 INFO  MainPageSearch:82 - Select car brand
+2018-08-13 16:33:29 INFO  MainPageSearch:95 - Select car model
+2018-08-13 16:33:34 INFO  MainPageSearch:138 - Click search button
+2018-08-13 16:33:39 INFO  SearchPageResults:48 - Check the results of search for the brand and mark car
+2018-08-13 16:33:39 INFO  Hooks:23 - Close Auto Ria
+2018-08-13 16:33:43 INFO  Hooks:17 - Get driver
+2018-08-13 16:33:45 INFO  MainPageSearch:122 - Select year from
+2018-08-13 16:33:45 INFO  MainPageSearch:125 - Select year to
+2018-08-13 16:33:45 INFO  MainPageSearch:138 - Click search button
+2018-08-13 16:33:49 INFO  SearchPageResults:73 - Check the results of search for the year
+2018-08-13 16:33:49 INFO  Hooks:23 - Close Auto Ria
+2018-08-13 16:33:53 INFO  Hooks:17 - Get driver
+2018-08-13 16:33:54 INFO  Hooks:23 - Close Auto Ria
+2018-08-13 16:33:57 INFO  Hooks:17 - Get driver
+2018-08-13 16:33:59 INFO  MainPageSearch:122 - Select year from
+2018-08-13 16:33:59 INFO  MainPageSearch:125 - Select year to
+2018-08-13 16:33:59 INFO  MainPageSearch:138 - Click search button
+2018-08-13 16:34:03 INFO  SearchPageResults:73 - Check the results of search for the year
+2018-08-13 16:34:04 INFO  Hooks:23 - Close Auto Ria
+2018-08-13 16:34:07 INFO  Hooks:17 - Get driver
+2018-08-13 16:34:12 INFO  MainPageSearch:131 - Select price from
+2018-08-13 16:34:12 INFO  MainPageSearch:133 - Select price to
+2018-08-13 16:34:12 INFO  MainPageSearch:138 - Click search button
+2018-08-13 16:34:16 INFO  SearchPageResults:86 - Check the results of search for the price
+2018-08-13 16:34:16 INFO  Hooks:23 - Close Auto Ria
+2018-08-13 16:34:20 INFO  Hooks:17 - Get driver
+2018-08-13 16:34:22 INFO  MainPageSearch:131 - Select price from
+2018-08-13 16:34:22 INFO  MainPageSearch:133 - Select price to
+2018-08-13 16:34:22 INFO  MainPageSearch:138 - Click search button
+2018-08-13 16:34:26 INFO  SearchPageResults:86 - Check the results of search for the price
+2018-08-13 16:34:27 INFO  Hooks:23 - Close Auto Ria
+2018-08-13 16:34:30 INFO  Hooks:17 - Get driver
+2018-08-13 16:34:32 INFO  MainPageSearch:131 - Select price from
+2018-08-13 16:34:32 INFO  MainPageSearch:133 - Select price to
+2018-08-13 16:34:33 INFO  MainPageSearch:138 - Click search button
+2018-08-13 16:34:36 INFO  SearchPageResults:86 - Check the results of search for the price
+2018-08-13 16:34:37 INFO  Hooks:23 - Close Auto Ria
+2018-08-13 16:34:40 INFO  Hooks:17 - Get driver
+2018-08-13 16:34:55 INFO  MainPageSearch:113 - Select region
+2018-08-13 16:35:00 INFO  MainPageSearch:138 - Click search button
+2018-08-13 16:35:01 INFO  SearchPageResults:60 - Check the results of search for the region
+2018-08-13 16:35:02 INFO  Hooks:23 - Close Auto Ria
+2018-08-13 16:35:06 INFO  Hooks:17 - Get driver
+2018-08-13 16:35:08 INFO  MainPageSearch:113 - Select region
+2018-08-13 16:35:08 INFO  MainPageSearch:138 - Click search button
+2018-08-13 16:35:12 INFO  SearchPageResults:60 - Check the results of search for the region
+2018-08-13 16:35:13 INFO  Hooks:23 - Close Auto Ria
+2018-08-13 16:35:16 INFO  Hooks:17 - Get driver
+2018-08-13 16:35:20 INFO  MainPageSearch:113 - Select region
+2018-08-13 16:35:20 INFO  MainPageSearch:138 - Click search button
+2018-08-13 16:35:27 INFO  SearchPageResults:60 - Check the results of search for the region
+2018-08-13 16:35:28 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:09:33 INFO  Hooks:17 - Get driver
+2018-08-14 14:09:36 INFO  MainPageSearch:82 - Select car brand
+2018-08-14 14:09:37 INFO  MainPageSearch:95 - Select car model
+2018-08-14 14:09:37 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:09:42 INFO  SearchPageResults:48 - Check the results of search for the brand and mark car
+2018-08-14 14:09:43 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:09:46 INFO  Hooks:17 - Get driver
+2018-08-14 14:09:50 INFO  MainPageSearch:82 - Select car brand
+2018-08-14 14:09:51 INFO  MainPageSearch:95 - Select car model
+2018-08-14 14:09:51 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:10:01 INFO  SearchPageResults:48 - Check the results of search for the brand and mark car
+2018-08-14 14:10:02 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:10:06 INFO  Hooks:17 - Get driver
+2018-08-14 14:10:09 INFO  MainPageSearch:82 - Select car brand
+2018-08-14 14:10:10 INFO  MainPageSearch:95 - Select car model
+2018-08-14 14:10:10 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:10:16 INFO  SearchPageResults:48 - Check the results of search for the brand and mark car
+2018-08-14 14:10:16 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:10:20 INFO  Hooks:17 - Get driver
+2018-08-14 14:10:22 INFO  MainPageSearch:122 - Select year from
+2018-08-14 14:10:22 INFO  MainPageSearch:125 - Select year to
+2018-08-14 14:10:22 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:10:26 INFO  SearchPageResults:73 - Check the results of search for the year
+2018-08-14 14:10:27 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:10:30 INFO  Hooks:17 - Get driver
+2018-08-14 14:10:33 INFO  MainPageSearch:122 - Select year from
+2018-08-14 14:10:33 INFO  MainPageSearch:125 - Select year to
+2018-08-14 14:10:33 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:10:37 INFO  SearchPageResults:73 - Check the results of search for the year
+2018-08-14 14:10:38 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:10:41 INFO  Hooks:17 - Get driver
+2018-08-14 14:10:44 INFO  MainPageSearch:122 - Select year from
+2018-08-14 14:10:44 INFO  MainPageSearch:125 - Select year to
+2018-08-14 14:10:44 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:10:48 INFO  SearchPageResults:73 - Check the results of search for the year
+2018-08-14 14:10:49 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:10:52 INFO  Hooks:17 - Get driver
+2018-08-14 14:10:55 INFO  MainPageSearch:131 - Select price from
+2018-08-14 14:10:55 INFO  MainPageSearch:133 - Select price to
+2018-08-14 14:10:55 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:10:58 INFO  SearchPageResults:86 - Check the results of search for the price
+2018-08-14 14:10:59 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:11:02 INFO  Hooks:17 - Get driver
+2018-08-14 14:11:04 INFO  MainPageSearch:131 - Select price from
+2018-08-14 14:11:04 INFO  MainPageSearch:133 - Select price to
+2018-08-14 14:11:05 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:11:09 INFO  SearchPageResults:86 - Check the results of search for the price
+2018-08-14 14:11:10 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:11:14 INFO  Hooks:17 - Get driver
+2018-08-14 14:11:17 INFO  MainPageSearch:131 - Select price from
+2018-08-14 14:11:17 INFO  MainPageSearch:133 - Select price to
+2018-08-14 14:11:17 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:11:21 INFO  SearchPageResults:86 - Check the results of search for the price
+2018-08-14 14:11:22 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:11:25 INFO  Hooks:17 - Get driver
+2018-08-14 14:11:28 INFO  MainPageSearch:113 - Select region
+2018-08-14 14:11:28 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:11:32 INFO  SearchPageResults:60 - Check the results of search for the region
+2018-08-14 14:11:33 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:11:36 INFO  Hooks:17 - Get driver
+2018-08-14 14:11:40 INFO  MainPageSearch:113 - Select region
+2018-08-14 14:11:40 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:11:43 INFO  SearchPageResults:60 - Check the results of search for the region
+2018-08-14 14:11:44 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:11:47 INFO  Hooks:17 - Get driver
+2018-08-14 14:11:50 INFO  MainPageSearch:113 - Select region
+2018-08-14 14:11:50 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:11:54 INFO  SearchPageResults:60 - Check the results of search for the region
+2018-08-14 14:11:55 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:14:25 INFO  Hooks:17 - Get driver
+2018-08-14 14:14:33 INFO  MainPageSearch:82 - Select car brand
+2018-08-14 14:14:33 INFO  MainPageSearch:95 - Select car model
+2018-08-14 14:14:33 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:14:38 INFO  SearchPageResults:48 - Check the results of search for the brand and mark car
+2018-08-14 14:14:39 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:14:42 INFO  Hooks:17 - Get driver
+2018-08-14 14:14:47 INFO  MainPageSearch:82 - Select car brand
+2018-08-14 14:14:48 INFO  MainPageSearch:95 - Select car model
+2018-08-14 14:14:48 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:15:02 INFO  SearchPageResults:48 - Check the results of search for the brand and mark car
+2018-08-14 14:15:02 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:15:06 INFO  Hooks:17 - Get driver
+2018-08-14 14:15:19 INFO  MainPageSearch:82 - Select car brand
+2018-08-14 14:15:21 INFO  MainPageSearch:95 - Select car model
+2018-08-14 14:15:21 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:15:34 INFO  SearchPageResults:48 - Check the results of search for the brand and mark car
+2018-08-14 14:15:35 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:15:39 INFO  Hooks:17 - Get driver
+2018-08-14 14:15:44 INFO  MainPageSearch:122 - Select year from
+2018-08-14 14:15:44 INFO  MainPageSearch:125 - Select year to
+2018-08-14 14:15:44 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:15:51 INFO  SearchPageResults:73 - Check the results of search for the year
+2018-08-14 14:15:52 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:15:56 INFO  Hooks:17 - Get driver
+2018-08-14 14:15:59 INFO  MainPageSearch:122 - Select year from
+2018-08-14 14:16:00 INFO  MainPageSearch:125 - Select year to
+2018-08-14 14:16:00 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:16:07 INFO  SearchPageResults:73 - Check the results of search for the year
+2018-08-14 14:16:08 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:16:12 INFO  Hooks:17 - Get driver
+2018-08-14 14:16:25 INFO  MainPageSearch:122 - Select year from
+2018-08-14 14:16:25 INFO  MainPageSearch:125 - Select year to
+2018-08-14 14:16:25 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:16:39 INFO  SearchPageResults:73 - Check the results of search for the year
+2018-08-14 14:16:40 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:16:43 INFO  Hooks:17 - Get driver
+2018-08-14 14:16:49 INFO  MainPageSearch:131 - Select price from
+2018-08-14 14:16:49 INFO  MainPageSearch:133 - Select price to
+2018-08-14 14:16:49 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:17:04 INFO  SearchPageResults:86 - Check the results of search for the price
+2018-08-14 14:17:04 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:17:08 INFO  Hooks:17 - Get driver
+2018-08-14 14:17:14 INFO  MainPageSearch:131 - Select price from
+2018-08-14 14:17:14 INFO  MainPageSearch:133 - Select price to
+2018-08-14 14:17:14 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:17:23 INFO  SearchPageResults:86 - Check the results of search for the price
+2018-08-14 14:17:24 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:17:27 INFO  Hooks:17 - Get driver
+2018-08-14 14:19:50 INFO  MainPageSearch:131 - Select price from
+2018-08-14 14:19:50 INFO  MainPageSearch:133 - Select price to
+2018-08-14 14:19:55 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:20:05 INFO  SearchPageResults:86 - Check the results of search for the price
+2018-08-14 14:20:06 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:20:10 INFO  Hooks:17 - Get driver
+2018-08-14 14:20:13 INFO  MainPageSearch:113 - Select region
+2018-08-14 14:20:13 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:20:19 INFO  SearchPageResults:60 - Check the results of search for the region
+2018-08-14 14:20:20 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:20:24 INFO  Hooks:17 - Get driver
+2018-08-14 14:20:30 INFO  MainPageSearch:113 - Select region
+2018-08-14 14:20:30 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:20:51 INFO  SearchPageResults:60 - Check the results of search for the region
+2018-08-14 14:20:51 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:20:55 INFO  Hooks:17 - Get driver
+2018-08-14 14:20:59 INFO  MainPageSearch:113 - Select region
+2018-08-14 14:20:59 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:21:07 INFO  SearchPageResults:60 - Check the results of search for the region
+2018-08-14 14:21:08 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:34:08 INFO  Hooks:17 - Get driver
+2018-08-14 14:34:12 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:34:15 INFO  Hooks:17 - Get driver
+2018-08-14 14:34:19 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:34:22 INFO  Hooks:17 - Get driver
+2018-08-14 14:34:25 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:34:29 INFO  Hooks:17 - Get driver
+2018-08-14 14:34:33 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:34:37 INFO  Hooks:17 - Get driver
+2018-08-14 14:34:39 INFO  MainPageSearch:82 - Select car brand
+2018-08-14 14:34:40 INFO  MainPageSearch:95 - Select car model
+2018-08-14 14:34:40 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:34:44 INFO  SearchPageResults:48 - Check the results of search for the brand and mark car
+2018-08-14 14:34:45 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:34:48 INFO  Hooks:17 - Get driver
+2018-08-14 14:34:51 INFO  MainPageSearch:82 - Select car brand
+2018-08-14 14:34:52 INFO  MainPageSearch:95 - Select car model
+2018-08-14 14:34:52 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:34:56 INFO  SearchPageResults:48 - Check the results of search for the brand and mark car
+2018-08-14 14:34:57 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:35:00 INFO  Hooks:17 - Get driver
+2018-08-14 14:35:06 INFO  MainPageSearch:82 - Select car brand
+2018-08-14 14:35:06 INFO  MainPageSearch:95 - Select car model
+2018-08-14 14:35:06 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:35:12 INFO  SearchPageResults:48 - Check the results of search for the brand and mark car
+2018-08-14 14:35:13 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:35:17 INFO  Hooks:17 - Get driver
+2018-08-14 14:35:20 INFO  MainPageSearch:122 - Select year from
+2018-08-14 14:35:20 INFO  MainPageSearch:125 - Select year to
+2018-08-14 14:35:20 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:35:24 INFO  SearchPageResults:73 - Check the results of search for the year
+2018-08-14 14:35:25 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:35:29 INFO  Hooks:17 - Get driver
+2018-08-14 14:35:31 INFO  MainPageSearch:122 - Select year from
+2018-08-14 14:35:31 INFO  MainPageSearch:125 - Select year to
+2018-08-14 14:35:31 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:35:36 INFO  SearchPageResults:73 - Check the results of search for the year
+2018-08-14 14:35:37 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:35:40 INFO  Hooks:17 - Get driver
+2018-08-14 14:35:45 INFO  MainPageSearch:122 - Select year from
+2018-08-14 14:35:45 INFO  MainPageSearch:125 - Select year to
+2018-08-14 14:35:46 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:35:53 INFO  SearchPageResults:73 - Check the results of search for the year
+2018-08-14 14:35:54 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:35:57 INFO  Hooks:17 - Get driver
+2018-08-14 14:36:01 INFO  MainPageSearch:131 - Select price from
+2018-08-14 14:36:02 INFO  MainPageSearch:133 - Select price to
+2018-08-14 14:36:02 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:36:08 INFO  SearchPageResults:86 - Check the results of search for the price
+2018-08-14 14:36:09 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:36:13 INFO  Hooks:17 - Get driver
+2018-08-14 14:36:15 INFO  MainPageSearch:131 - Select price from
+2018-08-14 14:36:15 INFO  MainPageSearch:133 - Select price to
+2018-08-14 14:36:15 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:36:19 INFO  SearchPageResults:86 - Check the results of search for the price
+2018-08-14 14:36:19 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:36:23 INFO  Hooks:17 - Get driver
+2018-08-14 14:36:26 INFO  MainPageSearch:131 - Select price from
+2018-08-14 14:36:27 INFO  MainPageSearch:133 - Select price to
+2018-08-14 14:36:27 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:36:30 INFO  SearchPageResults:86 - Check the results of search for the price
+2018-08-14 14:36:31 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:36:34 INFO  Hooks:17 - Get driver
+2018-08-14 14:36:39 INFO  MainPageSearch:113 - Select region
+2018-08-14 14:36:39 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:36:45 INFO  SearchPageResults:60 - Check the results of search for the region
+2018-08-14 14:36:46 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:36:49 INFO  Hooks:17 - Get driver
+2018-08-14 14:36:52 INFO  MainPageSearch:113 - Select region
+2018-08-14 14:36:52 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:36:56 INFO  SearchPageResults:60 - Check the results of search for the region
+2018-08-14 14:36:57 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:37:00 INFO  Hooks:17 - Get driver
+2018-08-14 14:37:08 INFO  MainPageSearch:113 - Select region
+2018-08-14 14:37:08 INFO  MainPageSearch:138 - Click search button
+2018-08-14 14:37:12 INFO  SearchPageResults:60 - Check the results of search for the region
+2018-08-14 14:37:13 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:43:29 INFO  Hooks:17 - Get driver
+2018-08-14 14:43:33 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:43:36 INFO  Hooks:17 - Get driver
+2018-08-14 14:43:39 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:43:43 INFO  Hooks:17 - Get driver
+2018-08-14 14:43:46 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:43:50 INFO  Hooks:17 - Get driver
+2018-08-14 14:43:53 INFO  Hooks:23 - Close Auto Ria
+2018-08-14 14:45:04 INFO  Hooks:17 - Get driver
+2018-08-14 14:48:03 INFO  Hooks:18 - Get driver
+2018-08-14 14:48:08 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 14:48:11 INFO  Hooks:18 - Get driver
+2018-08-14 14:48:14 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 14:48:18 INFO  Hooks:18 - Get driver
+2018-08-14 14:48:21 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 14:48:25 INFO  Hooks:18 - Get driver
+2018-08-14 14:48:33 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:34:20 INFO  Hooks:18 - Get driver
+2018-08-14 15:34:23 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:34:27 INFO  Hooks:18 - Get driver
+2018-08-14 15:34:30 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:34:33 INFO  Hooks:18 - Get driver
+2018-08-14 15:34:37 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:34:40 INFO  Hooks:18 - Get driver
+2018-08-14 15:34:43 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:35:26 INFO  Hooks:18 - Get driver
+2018-08-14 15:35:31 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:35:34 INFO  Hooks:18 - Get driver
+2018-08-14 15:35:41 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:35:52 INFO  Hooks:18 - Get driver
+2018-08-14 15:35:56 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:35:59 INFO  Hooks:18 - Get driver
+2018-08-14 15:36:05 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:36:08 INFO  Hooks:18 - Get driver
+2018-08-14 15:36:14 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:36:40 INFO  Hooks:18 - Get driver
+2018-08-14 15:37:15 INFO  Hooks:18 - Get driver
+2018-08-14 15:37:19 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:37:43 INFO  Hooks:18 - Get driver
+2018-08-14 15:37:55 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:37:59 INFO  Hooks:18 - Get driver
+2018-08-14 15:38:22 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:38:26 INFO  Hooks:18 - Get driver
+2018-08-14 15:38:39 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:38:42 INFO  Hooks:18 - Get driver
+2018-08-14 15:38:46 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:39:49 INFO  Hooks:18 - Get driver
+2018-08-14 15:39:52 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:39:56 INFO  Hooks:18 - Get driver
+2018-08-14 15:39:59 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:40:03 INFO  Hooks:18 - Get driver
+2018-08-14 15:40:06 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:40:09 INFO  Hooks:18 - Get driver
+2018-08-14 15:40:12 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:44:05 INFO  Hooks:18 - Get driver
+2018-08-14 15:44:11 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:44:14 INFO  Hooks:18 - Get driver
+2018-08-14 15:44:20 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:44:23 INFO  Hooks:18 - Get driver
+2018-08-14 15:44:27 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:44:30 INFO  Hooks:18 - Get driver
+2018-08-14 15:44:34 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:48:12 INFO  Hooks:18 - Get driver
+2018-08-14 15:48:16 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:48:20 INFO  Hooks:18 - Get driver
+2018-08-14 15:48:23 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:48:26 INFO  Hooks:18 - Get driver
+2018-08-14 15:48:29 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:48:33 INFO  Hooks:18 - Get driver
+2018-08-14 15:48:42 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:50:37 INFO  Hooks:18 - Get driver
+2018-08-14 15:50:53 INFO  HeadersLinksPage:125 - Click on  link
+2018-08-14 15:50:53 INFO  Waiters:17 - Start waiting
+2018-08-14 15:50:53 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:50:53 INFO  Waiters:17 - Start waiting
+2018-08-14 15:50:53 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:50:53 INFO  Waiters:17 - Start waiting
+2018-08-14 15:50:53 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:50:53 INFO  Waiters:17 - Start waiting
+2018-08-14 15:50:53 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:50:54 INFO  Waiters:17 - Start waiting
+2018-08-14 15:50:56 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:50:56 INFO  HeadersLinksPage:85 - Get actual title
+2018-08-14 15:50:56 INFO  HeadersLinksPage:91 - Get current URL
+2018-08-14 15:50:56 INFO  HeadersLinksPage:141 - The  link is successfully loaded
+2018-08-14 15:50:57 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:51:00 INFO  Hooks:18 - Get driver
+2018-08-14 15:51:04 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:52:06 INFO  Hooks:18 - Get driver
+2018-08-14 15:52:09 INFO  HeadersLinksPage:98 - Click on RiaCom link
+2018-08-14 15:52:09 INFO  Waiters:17 - Start waiting
+2018-08-14 15:52:09 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:52:09 INFO  Waiters:17 - Start waiting
+2018-08-14 15:52:09 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:52:09 INFO  Waiters:17 - Start waiting
+2018-08-14 15:52:09 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:52:09 INFO  Waiters:17 - Start waiting
+2018-08-14 15:52:09 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:52:09 INFO  Waiters:17 - Start waiting
+2018-08-14 15:52:10 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:52:10 INFO  HeadersLinksPage:105 - The RiaCom link is successfully loaded
+2018-08-14 15:52:10 INFO  HeadersLinksPage:85 - Get actual title
+2018-08-14 15:52:10 INFO  HeadersLinksPage:91 - Get current URL
+2018-08-14 15:52:10 INFO  HeadersLinksPage:98 - Click on RiaCom link
+2018-08-14 15:52:10 INFO  Waiters:17 - Start waiting
+2018-08-14 15:52:10 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:52:10 INFO  Waiters:17 - Start waiting
+2018-08-14 15:52:11 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:52:11 INFO  Waiters:17 - Start waiting
+2018-08-14 15:52:11 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:52:11 INFO  Waiters:17 - Start waiting
+2018-08-14 15:52:11 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:52:11 INFO  Waiters:17 - Start waiting
+2018-08-14 15:52:12 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:52:12 INFO  HeadersLinksPage:105 - The RiaCom link is successfully loaded
+2018-08-14 15:52:12 INFO  HeadersLinksPage:85 - Get actual title
+2018-08-14 15:52:12 INFO  HeadersLinksPage:91 - Get current URL
+2018-08-14 15:52:12 INFO  HeadersLinksPage:98 - Click on RiaCom link
+2018-08-14 15:52:12 INFO  Waiters:17 - Start waiting
+2018-08-14 15:52:12 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:52:12 INFO  Waiters:17 - Start waiting
+2018-08-14 15:52:12 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:52:12 INFO  Waiters:17 - Start waiting
+2018-08-14 15:52:12 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:52:12 INFO  Waiters:17 - Start waiting
+2018-08-14 15:52:12 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:52:12 INFO  Waiters:17 - Start waiting
+2018-08-14 15:52:13 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:52:13 INFO  HeadersLinksPage:105 - The RiaCom link is successfully loaded
+2018-08-14 15:52:13 INFO  HeadersLinksPage:85 - Get actual title
+2018-08-14 15:52:13 INFO  HeadersLinksPage:91 - Get current URL
+2018-08-14 15:52:14 INFO  HeadersLinksPage:98 - Click on RiaCom link
+2018-08-14 15:52:14 INFO  Waiters:17 - Start waiting
+2018-08-14 15:52:14 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:52:14 INFO  Waiters:17 - Start waiting
+2018-08-14 15:52:14 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:52:14 INFO  Waiters:17 - Start waiting
+2018-08-14 15:52:14 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:52:14 INFO  Waiters:17 - Start waiting
+2018-08-14 15:52:14 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:52:14 INFO  Waiters:17 - Start waiting
+2018-08-14 15:52:15 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:52:15 INFO  HeadersLinksPage:105 - The RiaCom link is successfully loaded
+2018-08-14 15:52:15 INFO  HeadersLinksPage:85 - Get actual title
+2018-08-14 15:52:15 INFO  HeadersLinksPage:91 - Get current URL
+2018-08-14 15:52:15 INFO  HeadersLinksPage:98 - Click on RiaCom link
+2018-08-14 15:52:15 INFO  Waiters:17 - Start waiting
+2018-08-14 15:52:15 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:52:15 INFO  Waiters:17 - Start waiting
+2018-08-14 15:52:15 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:52:15 INFO  Waiters:17 - Start waiting
+2018-08-14 15:52:15 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:52:15 INFO  Waiters:17 - Start waiting
+2018-08-14 15:52:15 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:52:15 INFO  Waiters:17 - Start waiting
+2018-08-14 15:52:17 INFO  Waiters:24 - Finish waiting
+2018-08-14 15:52:17 INFO  HeadersLinksPage:105 - The RiaCom link is successfully loaded
+2018-08-14 15:52:17 INFO  HeadersLinksPage:85 - Get actual title
+2018-08-14 15:52:17 INFO  HeadersLinksPage:91 - Get current URL
+2018-08-14 15:52:18 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:52:21 INFO  Hooks:18 - Get driver
+2018-08-14 15:52:25 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:52:28 INFO  Hooks:18 - Get driver
+2018-08-14 15:52:32 INFO  Hooks:24 - Close Auto Ria
+2018-08-14 15:52:35 INFO  Hooks:18 - Get driver
+2018-08-14 15:52:38 INFO  Hooks:24 - Close Auto Ria
+2018-08-15 13:04:08 INFO  Hooks:18 - Get driver
+2018-08-15 13:04:17 INFO  HeadersLinksPage:64 - Click on RiaCom link
+2018-08-15 13:04:17 INFO  Waiters:17 - Start waiting
+2018-08-15 13:04:17 INFO  Waiters:24 - Finish waiting
+2018-08-15 13:04:17 INFO  Waiters:17 - Start waiting
+2018-08-15 13:04:17 INFO  Waiters:24 - Finish waiting
+2018-08-15 13:04:17 INFO  HeadersLinksPage:78 - Switch to new window
+2018-08-15 13:04:17 INFO  Waiters:17 - Start waiting
+2018-08-15 13:04:17 INFO  Waiters:24 - Finish waiting
+2018-08-15 13:04:17 INFO  Waiters:17 - Start waiting
+2018-08-15 13:04:18 INFO  Waiters:24 - Finish waiting
+2018-08-15 13:04:18 INFO  HeadersLinksPage:78 - Switch to new window
+2018-08-15 13:04:18 INFO  HeadersLinksPage:52 - Get actual title
+2018-08-15 13:04:18 INFO  HeadersLinksPage:58 - Get current URL
+2018-08-15 13:04:18 INFO  HeadersLinksPage:90 - The page was successfully loaded
+2018-08-15 13:04:19 INFO  Hooks:24 - Close Auto Ria
+2018-08-15 13:04:22 INFO  Hooks:18 - Get driver
+2018-08-15 13:04:25 INFO  Hooks:24 - Close Auto Ria
+2018-08-15 13:04:29 INFO  Hooks:18 - Get driver
+2018-08-15 13:04:32 INFO  Hooks:24 - Close Auto Ria
+2018-08-15 13:04:35 INFO  Hooks:18 - Get driver
+2018-08-15 13:04:38 INFO  Hooks:24 - Close Auto Ria
+2018-08-15 13:24:55 INFO  Hooks:18 - Get driver
+2018-08-15 13:24:58 INFO  HeadersLinksPage:61 - Click on RiaCom link
+2018-08-15 13:24:58 INFO  Waiters:17 - Start waiting
+2018-08-15 13:24:58 INFO  Waiters:24 - Finish waiting
+2018-08-15 13:24:58 INFO  Waiters:17 - Start waiting
+2018-08-15 13:24:58 INFO  Waiters:24 - Finish waiting
+2018-08-15 13:24:58 INFO  HeadersLinksPage:75 - Switch to new window
+2018-08-15 13:24:58 INFO  Waiters:17 - Start waiting
+2018-08-15 13:24:58 INFO  Waiters:24 - Finish waiting
+2018-08-15 13:24:58 INFO  Waiters:17 - Start waiting
+2018-08-15 13:24:59 INFO  Waiters:24 - Finish waiting
+2018-08-15 13:24:59 INFO  HeadersLinksPage:75 - Switch to new window
+2018-08-15 13:24:59 INFO  HeadersLinksPage:49 - Get actual title
+2018-08-15 13:24:59 INFO  HeadersLinksPage:55 - Get current URL
+2018-08-15 13:24:59 INFO  HeadersLinksPage:87 - The page Ria.com was successfully loaded
+2018-08-15 13:25:00 INFO  Hooks:24 - Close Auto Ria
+2018-08-15 13:25:04 INFO  Hooks:18 - Get driver
+2018-08-15 13:25:06 INFO  HeadersLinksPage:93 - Click on https://dom.ria.com/ link
+2018-08-15 13:25:06 INFO  Waiters:17 - Start waiting
+2018-08-15 13:25:06 INFO  Waiters:24 - Finish waiting
+2018-08-15 13:25:06 INFO  Waiters:17 - Start waiting
+2018-08-15 13:25:06 INFO  Waiters:24 - Finish waiting
+2018-08-15 13:25:06 INFO  HeadersLinksPage:75 - Switch to new window
+2018-08-15 13:25:06 INFO  Waiters:17 - Start waiting
+2018-08-15 13:25:06 INFO  Waiters:24 - Finish waiting
+2018-08-15 13:25:06 INFO  Waiters:17 - Start waiting
+2018-08-15 13:25:09 INFO  Waiters:24 - Finish waiting
+2018-08-15 13:25:09 INFO  HeadersLinksPage:75 - Switch to new window
+2018-08-15 13:25:09 INFO  HeadersLinksPage:49 - Get actual title
+2018-08-15 13:25:09 INFO  HeadersLinksPage:55 - Get current URL
+2018-08-15 13:25:09 INFO  HeadersLinksPage:98 - The page https://dom.ria.com/ was successfully loaded
+2018-08-15 13:25:10 INFO  Hooks:24 - Close Auto Ria
+2018-08-15 13:25:14 INFO  Hooks:18 - Get driver
+2018-08-15 13:25:16 INFO  HeadersLinksPage:104 - Click on https://market.ria.com/ link
+2018-08-15 13:25:16 INFO  Waiters:17 - Start waiting
+2018-08-15 13:25:16 INFO  Waiters:24 - Finish waiting
+2018-08-15 13:25:16 INFO  Waiters:17 - Start waiting
+2018-08-15 13:25:16 INFO  Waiters:24 - Finish waiting
+2018-08-15 13:25:16 INFO  HeadersLinksPage:75 - Switch to new window
+2018-08-15 13:25:16 INFO  Waiters:17 - Start waiting
+2018-08-15 13:25:16 INFO  Waiters:24 - Finish waiting
+2018-08-15 13:25:16 INFO  Waiters:17 - Start waiting
+2018-08-15 13:25:18 INFO  Waiters:24 - Finish waiting
+2018-08-15 13:25:18 INFO  HeadersLinksPage:75 - Switch to new window
+2018-08-15 13:25:18 INFO  HeadersLinksPage:49 - Get actual title
+2018-08-15 13:25:18 INFO  HeadersLinksPage:55 - Get current URL
+2018-08-15 13:25:18 INFO  HeadersLinksPage:109 - The page https://market.ria.com/ was successfully loaded
+2018-08-15 13:25:19 INFO  Hooks:24 - Close Auto Ria
+2018-08-15 13:25:22 INFO  Hooks:18 - Get driver
+2018-08-15 13:25:25 INFO  HeadersLinksPage:115 - Click on https://zapchasti.ria.com/ link
+2018-08-15 13:25:25 INFO  Waiters:17 - Start waiting
+2018-08-15 13:25:25 INFO  Waiters:24 - Finish waiting
+2018-08-15 13:25:25 INFO  Waiters:17 - Start waiting
+2018-08-15 13:25:25 INFO  Waiters:24 - Finish waiting
+2018-08-15 13:25:25 INFO  HeadersLinksPage:75 - Switch to new window
+2018-08-15 13:25:25 INFO  Waiters:17 - Start waiting
+2018-08-15 13:25:25 INFO  Waiters:24 - Finish waiting
+2018-08-15 13:25:25 INFO  Waiters:17 - Start waiting
+2018-08-15 13:25:26 INFO  Waiters:24 - Finish waiting
+2018-08-15 13:25:26 INFO  HeadersLinksPage:75 - Switch to new window
+2018-08-15 13:25:26 INFO  HeadersLinksPage:49 - Get actual title
+2018-08-15 13:25:26 INFO  HeadersLinksPage:55 - Get current URL
+2018-08-15 13:25:26 INFO  HeadersLinksPage:120 - The page https://zapchasti.ria.com/ was successfully loaded
+2018-08-15 13:25:27 INFO  Hooks:24 - Close Auto Ria
+2018-08-15 13:52:53 INFO  Hooks:18 - Get driver
+2018-08-15 13:52:59 INFO  MainPageLogin:44 - Click on login link
+2018-08-15 13:53:09 INFO  MainPageLogin:46 - Switch to frame
+2018-08-15 13:53:09 INFO  MainPageLogin:51 - Click on registration link
+2018-08-15 13:53:09 INFO  MainPageLogin:56 - Input the telephone number
+2018-08-15 13:53:20 INFO  Hooks:24 - Close Auto Ria
+2018-08-15 13:55:02 INFO  Hooks:18 - Get driver
+2018-08-15 13:55:07 INFO  MainPageLogin:44 - Click on login link
+2018-08-15 13:55:17 INFO  MainPageLogin:46 - Switch to frame
+2018-08-15 13:55:18 INFO  MainPageLogin:51 - Click on registration link
+2018-08-15 13:55:18 INFO  MainPageLogin:56 - Input the telephone number
+2018-08-15 13:55:18 INFO  MainPageLogin:61 -  Click on the continue button
+2018-08-15 13:55:18 INFO  MainPageLogin:71 -  Get the message
+2018-08-15 13:55:18 INFO  MainPageLogin:77 - The error massage is displayed on the screen
+2018-08-15 13:55:19 INFO  Hooks:24 - Close Auto Ria
+2018-08-15 14:32:43 INFO  Hooks:18 - Get driver
+2018-08-15 14:32:46 INFO  MainPageSearch:82 - Select car brand
+2018-08-15 14:32:46 INFO  MainPageSearch:95 - Select car model
+2018-08-15 14:32:46 INFO  MainPageSearch:138 - Click search button
+2018-08-15 14:32:50 INFO  SearchPageResults:51 - Check the results of search for the brand and mark car
+2018-08-15 14:32:51 INFO  Hooks:24 - Close Auto Ria
+2018-08-15 14:32:55 INFO  Hooks:18 - Get driver
+2018-08-15 14:32:58 INFO  MainPageSearch:82 - Select car brand
+2018-08-15 14:32:59 INFO  MainPageSearch:95 - Select car model
+2018-08-15 14:32:59 INFO  MainPageSearch:138 - Click search button
+2018-08-15 14:33:05 INFO  SearchPageResults:51 - Check the results of search for the brand and mark car
+2018-08-15 14:33:06 INFO  Hooks:24 - Close Auto Ria
+2018-08-15 14:33:10 INFO  Hooks:18 - Get driver
+2018-08-15 14:33:13 INFO  MainPageSearch:82 - Select car brand
+2018-08-15 14:33:13 INFO  MainPageSearch:95 - Select car model
+2018-08-15 14:33:13 INFO  MainPageSearch:138 - Click search button
+2018-08-15 14:33:18 INFO  SearchPageResults:51 - Check the results of search for the brand and mark car
+2018-08-15 14:33:19 INFO  Hooks:24 - Close Auto Ria
+2018-08-15 14:33:23 INFO  Hooks:18 - Get driver
+2018-08-15 14:33:25 INFO  MainPageSearch:122 - Select year from
+2018-08-15 14:33:25 INFO  MainPageSearch:125 - Select year to
+2018-08-15 14:33:25 INFO  MainPageSearch:138 - Click search button
+2018-08-15 14:33:30 INFO  SearchPageResults:76 - Check the results of search for the year
+2018-08-15 14:33:31 INFO  Hooks:24 - Close Auto Ria
+2018-08-15 14:33:34 INFO  Hooks:18 - Get driver
+2018-08-15 14:33:37 INFO  MainPageSearch:122 - Select year from
+2018-08-15 14:33:37 INFO  MainPageSearch:125 - Select year to
+2018-08-15 14:33:37 INFO  MainPageSearch:138 - Click search button
+2018-08-15 14:33:41 INFO  SearchPageResults:76 - Check the results of search for the year
+2018-08-15 14:33:42 INFO  Hooks:24 - Close Auto Ria
+2018-08-15 14:33:45 INFO  Hooks:18 - Get driver
+2018-08-15 14:33:48 INFO  MainPageSearch:122 - Select year from
+2018-08-15 14:33:48 INFO  MainPageSearch:125 - Select year to
+2018-08-15 14:33:48 INFO  MainPageSearch:138 - Click search button
+2018-08-15 14:33:53 INFO  SearchPageResults:76 - Check the results of search for the year
+2018-08-15 14:33:54 INFO  Hooks:24 - Close Auto Ria
+2018-08-15 14:33:57 INFO  Hooks:18 - Get driver
+2018-08-15 14:34:00 INFO  MainPageSearch:131 - Select price from
+2018-08-15 14:34:00 INFO  MainPageSearch:133 - Select price to
+2018-08-15 14:34:00 INFO  MainPageSearch:138 - Click search button
+2018-08-15 14:34:14 INFO  SearchPageResults:89 - Check the results of search for the price
+2018-08-15 14:34:14 INFO  Hooks:24 - Close Auto Ria
+2018-08-15 14:34:18 INFO  Hooks:18 - Get driver
+2018-08-15 14:34:20 INFO  MainPageSearch:131 - Select price from
+2018-08-15 14:34:20 INFO  MainPageSearch:133 - Select price to
+2018-08-15 14:34:21 INFO  MainPageSearch:138 - Click search button
+2018-08-15 14:34:24 INFO  SearchPageResults:89 - Check the results of search for the price
+2018-08-15 14:34:25 INFO  Hooks:24 - Close Auto Ria
+2018-08-15 14:34:28 INFO  Hooks:18 - Get driver
+2018-08-15 14:34:30 INFO  MainPageSearch:131 - Select price from
+2018-08-15 14:34:31 INFO  MainPageSearch:133 - Select price to
+2018-08-15 14:34:31 INFO  MainPageSearch:138 - Click search button
+2018-08-15 14:34:34 INFO  SearchPageResults:89 - Check the results of search for the price
+2018-08-15 14:34:35 INFO  Hooks:24 - Close Auto Ria
+2018-08-15 14:34:38 INFO  Hooks:18 - Get driver
+2018-08-15 14:34:41 INFO  MainPageSearch:113 - Select region
+2018-08-15 14:34:41 INFO  MainPageSearch:138 - Click search button
+2018-08-15 14:34:44 INFO  SearchPageResults:63 - Check the results of search for the region
+2018-08-15 14:34:45 INFO  Hooks:24 - Close Auto Ria
+2018-08-15 14:34:49 INFO  Hooks:18 - Get driver
+2018-08-15 14:34:51 INFO  MainPageSearch:113 - Select region
+2018-08-15 14:34:51 INFO  MainPageSearch:138 - Click search button
+2018-08-15 14:34:57 INFO  SearchPageResults:63 - Check the results of search for the region
+2018-08-15 14:34:58 INFO  Hooks:24 - Close Auto Ria
+2018-08-15 14:35:02 INFO  Hooks:18 - Get driver
+2018-08-15 14:35:06 INFO  MainPageSearch:113 - Select region
+2018-08-15 14:35:06 INFO  MainPageSearch:138 - Click search button
+2018-08-15 14:35:10 INFO  SearchPageResults:63 - Check the results of search for the region
+2018-08-15 14:35:11 INFO  Hooks:24 - Close Auto Ria
+2018-08-15 14:47:26 INFO  Hooks:19 - Get driver
+2018-08-15 14:47:30 INFO  HeadersLinksPage:62 - Click on RiaCom link
+2018-08-15 14:47:30 INFO  Waiters:17 - Start waiting
+2018-08-15 14:47:30 INFO  Waiters:19 - Finish waiting
+2018-08-15 14:47:30 INFO  Waiters:17 - Start waiting
+2018-08-15 14:47:30 INFO  Waiters:19 - Finish waiting
+2018-08-15 14:47:30 INFO  HeadersLinksPage:76 - Switch to new window
+2018-08-15 14:47:30 INFO  Waiters:17 - Start waiting
+2018-08-15 14:47:30 INFO  Waiters:19 - Finish waiting
+2018-08-15 14:47:30 INFO  Waiters:17 - Start waiting
+2018-08-15 14:47:31 INFO  Waiters:19 - Finish waiting
+2018-08-15 14:47:31 INFO  HeadersLinksPage:76 - Switch to new window
+2018-08-15 14:47:38 INFO  HeadersLinksPage:50 - Get actual title
+2018-08-15 14:47:38 INFO  HeadersLinksPage:56 - Get current URL
+2018-08-15 14:47:38 INFO  HeadersLinksPage:88 - The page Ria.com was successfully loaded
+2018-08-15 14:47:39 INFO  Hooks:25 - Close Auto Ria
+2018-08-15 14:47:42 INFO  Hooks:19 - Get driver
+2018-08-15 14:47:47 INFO  HeadersLinksPage:94 - Click on https://dom.ria.com/ link
+2018-08-15 14:47:47 INFO  Waiters:17 - Start waiting
+2018-08-15 14:47:47 INFO  Waiters:19 - Finish waiting
+2018-08-15 14:47:47 INFO  Waiters:17 - Start waiting
+2018-08-15 14:47:47 INFO  Waiters:19 - Finish waiting
+2018-08-15 14:47:47 INFO  HeadersLinksPage:76 - Switch to new window
+2018-08-15 14:47:47 INFO  Waiters:17 - Start waiting
+2018-08-15 14:47:47 INFO  Waiters:19 - Finish waiting
+2018-08-15 14:47:47 INFO  Waiters:17 - Start waiting
+2018-08-15 14:47:53 INFO  Waiters:19 - Finish waiting
+2018-08-15 14:47:53 INFO  HeadersLinksPage:76 - Switch to new window
+2018-08-15 14:47:53 INFO  HeadersLinksPage:50 - Get actual title
+2018-08-15 14:47:53 INFO  HeadersLinksPage:56 - Get current URL
+2018-08-15 14:47:53 INFO  HeadersLinksPage:99 - The page https://dom.ria.com/ was successfully loaded
+2018-08-15 14:47:54 INFO  Hooks:25 - Close Auto Ria
+2018-08-15 14:47:57 INFO  Hooks:19 - Get driver
+2018-08-15 14:48:00 INFO  HeadersLinksPage:105 - Click on https://market.ria.com/ link
+2018-08-15 14:48:00 INFO  Waiters:17 - Start waiting
+2018-08-15 14:48:00 INFO  Waiters:19 - Finish waiting
+2018-08-15 14:48:01 INFO  Waiters:17 - Start waiting
+2018-08-15 14:48:01 INFO  Waiters:19 - Finish waiting
+2018-08-15 14:48:01 INFO  HeadersLinksPage:76 - Switch to new window
+2018-08-15 14:48:01 INFO  Waiters:17 - Start waiting
+2018-08-15 14:48:01 INFO  Waiters:19 - Finish waiting
+2018-08-15 14:48:01 INFO  Waiters:17 - Start waiting
+2018-08-15 14:48:03 INFO  Waiters:19 - Finish waiting
+2018-08-15 14:48:03 INFO  HeadersLinksPage:76 - Switch to new window
+2018-08-15 14:48:03 INFO  HeadersLinksPage:50 - Get actual title
+2018-08-15 14:48:03 INFO  HeadersLinksPage:56 - Get current URL
+2018-08-15 14:48:03 INFO  HeadersLinksPage:110 - The page https://market.ria.com/ was successfully loaded
+2018-08-15 14:48:03 INFO  Hooks:25 - Close Auto Ria
+2018-08-15 14:48:07 INFO  Hooks:19 - Get driver
+2018-08-15 14:48:10 INFO  HeadersLinksPage:116 - Click on https://zapchasti.ria.com/ link
+2018-08-15 14:48:10 INFO  Waiters:17 - Start waiting
+2018-08-15 14:48:10 INFO  Waiters:19 - Finish waiting
+2018-08-15 14:48:10 INFO  Waiters:17 - Start waiting
+2018-08-15 14:48:10 INFO  Waiters:19 - Finish waiting
+2018-08-15 14:48:10 INFO  HeadersLinksPage:76 - Switch to new window
+2018-08-15 14:48:10 INFO  Waiters:17 - Start waiting
+2018-08-15 14:48:10 INFO  Waiters:19 - Finish waiting
+2018-08-15 14:48:10 INFO  Waiters:17 - Start waiting
+2018-08-15 14:48:11 INFO  Waiters:19 - Finish waiting
+2018-08-15 14:48:11 INFO  HeadersLinksPage:76 - Switch to new window
+2018-08-15 14:48:11 INFO  HeadersLinksPage:50 - Get actual title
+2018-08-15 14:48:11 INFO  HeadersLinksPage:56 - Get current URL
+2018-08-15 14:48:11 INFO  HeadersLinksPage:121 - The page https://zapchasti.ria.com/ was successfully loaded
+2018-08-15 14:48:12 INFO  Hooks:25 - Close Auto Ria
+2018-08-15 14:48:16 INFO  Hooks:19 - Get driver
+2018-08-15 14:48:21 INFO  MainPageLogin:43 - Click on login link
+2018-08-15 14:48:31 INFO  MainPageLogin:45 - Switch to frame
+2018-08-15 14:48:31 INFO  MainPageLogin:50 - Click on registration link
+2018-08-15 14:48:31 INFO  MainPageLogin:55 - Input the telephone number
+2018-08-15 14:48:31 INFO  MainPageLogin:60 -  Click on the continue button
+2018-08-15 14:48:32 INFO  MainPageLogin:70 -  Get the message
+2018-08-15 14:48:32 INFO  MainPageLogin:77 - The error massage is displayed on the screen
+2018-08-15 14:48:33 INFO  Hooks:25 - Close Auto Ria
+2018-08-15 14:48:36 INFO  Hooks:19 - Get driver
+2018-08-15 14:48:39 INFO  MainPageSearch:80 - Select car brand
+2018-08-15 14:48:40 INFO  MainPageSearch:93 - Select car model
+2018-08-15 14:48:40 INFO  MainPageSearch:135 - Click search button
+2018-08-15 14:48:46 INFO  SearchPageResults:45 - Check the results of search for the brand and mark car
+2018-08-15 14:48:47 INFO  Hooks:25 - Close Auto Ria
+2018-08-15 14:48:50 INFO  Hooks:19 - Get driver
+2018-08-15 14:48:53 INFO  MainPageSearch:80 - Select car brand
+2018-08-15 14:48:54 INFO  MainPageSearch:93 - Select car model
+2018-08-15 14:48:55 INFO  MainPageSearch:135 - Click search button
+2018-08-15 14:48:59 INFO  SearchPageResults:45 - Check the results of search for the brand and mark car
+2018-08-15 14:49:00 INFO  Hooks:25 - Close Auto Ria
+2018-08-15 14:49:03 INFO  Hooks:19 - Get driver
+2018-08-15 14:49:06 INFO  MainPageSearch:80 - Select car brand
+2018-08-15 14:49:06 INFO  MainPageSearch:93 - Select car model
+2018-08-15 14:49:06 INFO  MainPageSearch:135 - Click search button
+2018-08-15 14:49:12 INFO  SearchPageResults:45 - Check the results of search for the brand and mark car
+2018-08-15 14:49:13 INFO  Hooks:25 - Close Auto Ria
+2018-08-15 14:49:16 INFO  Hooks:19 - Get driver
+2018-08-15 14:49:25 INFO  MainPageSearch:120 - Select year from
+2018-08-15 14:49:25 INFO  MainPageSearch:123 - Select year to
+2018-08-15 14:49:25 INFO  MainPageSearch:135 - Click search button
+2018-08-15 14:49:29 INFO  SearchPageResults:70 - Check the results of search for the year
+2018-08-15 14:49:30 INFO  Hooks:25 - Close Auto Ria
+2018-08-15 14:49:33 INFO  Hooks:19 - Get driver
+2018-08-15 14:49:36 INFO  MainPageSearch:120 - Select year from
+2018-08-15 14:49:36 INFO  MainPageSearch:123 - Select year to
+2018-08-15 14:49:36 INFO  MainPageSearch:135 - Click search button
+2018-08-15 14:49:39 INFO  SearchPageResults:70 - Check the results of search for the year
+2018-08-15 14:49:40 INFO  Hooks:25 - Close Auto Ria
+2018-08-15 14:49:44 INFO  Hooks:19 - Get driver
+2018-08-15 14:49:47 INFO  MainPageSearch:120 - Select year from
+2018-08-15 14:49:47 INFO  MainPageSearch:123 - Select year to
+2018-08-15 14:49:47 INFO  MainPageSearch:135 - Click search button
+2018-08-15 14:49:51 INFO  SearchPageResults:70 - Check the results of search for the year
+2018-08-15 14:49:52 INFO  Hooks:25 - Close Auto Ria
+2018-08-15 14:49:55 INFO  Hooks:19 - Get driver
+2018-08-15 14:49:59 INFO  MainPageSearch:128 - Select price from
+2018-08-15 14:49:59 INFO  MainPageSearch:130 - Select price to
+2018-08-15 14:50:00 INFO  MainPageSearch:135 - Click search button
+2018-08-15 14:50:03 INFO  SearchPageResults:83 - Check the results of search for the price
+2018-08-15 14:50:04 INFO  Hooks:25 - Close Auto Ria
+2018-08-15 14:50:07 INFO  Hooks:19 - Get driver
+2018-08-15 14:50:10 INFO  MainPageSearch:128 - Select price from
+2018-08-15 14:50:10 INFO  MainPageSearch:130 - Select price to
+2018-08-15 14:50:10 INFO  MainPageSearch:135 - Click search button
+2018-08-15 14:50:14 INFO  SearchPageResults:83 - Check the results of search for the price
+2018-08-15 14:50:15 INFO  Hooks:25 - Close Auto Ria
+2018-08-15 14:50:18 INFO  Hooks:19 - Get driver
+2018-08-15 14:50:26 INFO  MainPageSearch:128 - Select price from
+2018-08-15 14:50:26 INFO  MainPageSearch:130 - Select price to
+2018-08-15 14:50:26 INFO  MainPageSearch:135 - Click search button
+2018-08-15 14:50:30 INFO  SearchPageResults:83 - Check the results of search for the price
+2018-08-15 14:50:30 INFO  Hooks:25 - Close Auto Ria
+2018-08-15 14:50:34 INFO  Hooks:19 - Get driver
+2018-08-15 14:50:37 INFO  MainPageSearch:111 - Select region
+2018-08-15 14:50:37 INFO  MainPageSearch:135 - Click search button
+2018-08-15 14:50:41 INFO  SearchPageResults:57 - Check the results of search for the region
+2018-08-15 14:50:42 INFO  Hooks:25 - Close Auto Ria
+2018-08-15 14:50:45 INFO  Hooks:19 - Get driver
+2018-08-15 14:50:48 INFO  MainPageSearch:111 - Select region
+2018-08-15 14:50:48 INFO  MainPageSearch:135 - Click search button
+2018-08-15 14:50:52 INFO  SearchPageResults:57 - Check the results of search for the region
+2018-08-15 14:50:53 INFO  Hooks:25 - Close Auto Ria
+2018-08-15 14:50:56 INFO  Hooks:19 - Get driver
+2018-08-15 14:51:03 INFO  MainPageSearch:111 - Select region
+2018-08-15 14:51:03 INFO  MainPageSearch:135 - Click search button
+2018-08-15 14:51:07 INFO  SearchPageResults:57 - Check the results of search for the region
+2018-08-15 14:51:08 INFO  Hooks:25 - Close Auto Ria
