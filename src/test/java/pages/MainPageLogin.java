@@ -36,6 +36,9 @@ public class MainPageLogin {
     @FindBy(xpath = "//form[@id='login-form']/child::div[@class='login-rows']//p[@class='error']")
     private WebElement fieldAttantion;
 
+    @FindBy(xpath = "//div[@id='gdprId']//following-sibling::label/span[@class='mhide']")
+    private WebElement newWindow;
+
     private static final Logger log = LogManager.getLogger(MainPageLogin.class);
 
     public void clickOnEnterAndSwitchToFrame() {
@@ -46,7 +49,11 @@ public class MainPageLogin {
     }
 
     public void clickOnRegister() {
-        waitToBeClickable(registerLink).click();
+        if(newWindow.isDisplayed()){
+            waitToBeClickable(newWindow).click();
+            clickOnRegister();
+        }
+        else{ clickOnRegister();}
         log.info("Click on registration link");
     }
 

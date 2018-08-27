@@ -7,6 +7,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import java.util.List;
+
+import static tools.Actions.getInnerHtml;
 import static tools.Waiters.waitToBeClickable;
 
 public class SearchPageResults {
@@ -63,8 +65,10 @@ public class SearchPageResults {
         boolean result = false;
         for (WebElement elm : listOfResults) {
             waitToBeClickable(elm);
-
-            result = ((Integer.parseInt(yearFrom)) <= (Integer.parseInt(elm.getText().substring(elm.getText().length() - 4))) && (Integer.parseInt(elm.getText().substring(elm.getText().length() - 4))) <= (Integer.parseInt(yearTo)));
+            int yearFromInt=Integer.parseInt(yearFrom);
+            int yearResult=Integer.parseInt(elm.getText().substring(elm.getText().length() - 4));
+            int yearToInt=Integer.parseInt(yearTo);
+            result = (yearFromInt <= yearResult) && (yearToInt >= yearResult);
             if (!result) break;
         }
         log.info("Check the results of search for the year");
@@ -76,8 +80,10 @@ public class SearchPageResults {
         boolean result = false;
         for (WebElement elm : listOfResults) {
             waitToBeClickable(elm);
-
-            result = ((Integer.parseInt(priceFrom)) <= (Integer.parseInt(elm.getAttribute("innerHTML").replaceAll("\\$|\\s", ""))) && (Integer.parseInt(elm.getAttribute("innerHTML").replaceAll("\\$|\\s", ""))) <= (Integer.parseInt(priceTo)));
+            int priceFromInt=Integer.parseInt(priceFrom);
+            int priceResult=Integer.parseInt(getInnerHtml(elm).replaceAll("\\$|\\s", ""));
+            int priceToInt=Integer.parseInt(priceTo);
+            result = priceFromInt <= priceResult &&priceResult <= priceToInt;
             if (!result) break;
         }
         log.info("Check the results of search for the price");

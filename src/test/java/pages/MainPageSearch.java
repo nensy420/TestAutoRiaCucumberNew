@@ -9,6 +9,7 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.Select;
 import java.util.List;
 import static config.DriverManager.getDriver;
+import static tools.Actions.getInnerHtml;
 import static tools.Waiters.waitToBeClickable;
 
 public class MainPageSearch {
@@ -74,7 +75,7 @@ public class MainPageSearch {
         waitToBeClickable(brandCarField).click();
         List<WebElement> listBrandCar = brandCarList;
         for (WebElement elm : listBrandCar) {
-            String dataValue = elm.getAttribute("innerHTML");
+            String dataValue = getInnerHtml(elm);
             if (dataValue.contains(nameBrandCar)) {
                 waitToBeClickable(elm).click();
                 log.info("Select car brand");
@@ -87,7 +88,7 @@ public class MainPageSearch {
         waitToBeClickable(modelCarField).click();
         List<WebElement> listModelCar = modelCarList;
         for (WebElement elm : listModelCar) {
-            String dataValue = elm.getAttribute("innerHTML");
+            String dataValue = getInnerHtml(elm);
             if (dataValue.contains(nameModelCar)) {
                 waitToBeClickable(elm).click();
                 log.info("Select car model");
@@ -105,7 +106,7 @@ public class MainPageSearch {
         waitToBeClickable(regionField).click();
         List<WebElement> listRegions = regionList;
         for (WebElement elm : listRegions) {
-            String dataValue = elm.getAttribute("innerHTML");
+            String dataValue = getInnerHtml(elm);
             if (dataValue.contains(nameRegion)) {
                 waitToBeClickable(elm).click();
                 log.info("Select region");

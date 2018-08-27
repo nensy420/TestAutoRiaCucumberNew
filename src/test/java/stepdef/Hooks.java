@@ -16,12 +16,12 @@ public class Hooks {
     @Before
     public void openPage(Scenario scenario) {
         getDriver();
-        log.info("Get driver");
+        log.info("Open browser");
     }
 
     @After
     public void closePage(Scenario scenario) {
         quitDriver();
-        log.info("Close Auto Ria");
+        log.info("Close browser");
     }
 }
