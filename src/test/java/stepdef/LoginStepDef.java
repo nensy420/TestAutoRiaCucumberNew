@@ -13,7 +13,7 @@ public class LoginStepDef {
     @When("^The user click on Login link$")
     public void theUserClickOnLoginLink() {
         MainPageLogin mainPageLogin = new MainPageLogin(getDriver());
-        mainPageLogin.clickOnEnterAndSwitchToFrame();
+        mainPageLogin.clickOnLogin();
     }
 
     @When("^The user click on Sign up link$")

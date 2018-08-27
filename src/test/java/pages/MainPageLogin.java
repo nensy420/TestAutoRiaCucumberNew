@@ -7,6 +7,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
+
 import static tools.Waiters.waitToBeClickable;
 
 public class MainPageLogin {
@@ -41,19 +42,25 @@ public class MainPageLogin {
 
     private static final Logger log = LogManager.getLogger(MainPageLogin.class);
 
-    public void clickOnEnterAndSwitchToFrame() {
-        waitToBeClickable(enterTo).click();
-        log.info("Click on login link");
+    private void clickOnRegistrateLink() {
         driver.switchTo().frame("login_frame");
         log.info("Switch to frame");
+        waitToBeClickable(registerLink).click();
+        log.info("Click on registration link");
+    }
+
+    public void clickOnLogin() {
+        waitToBeClickable(enterTo).click();
+        log.info("Click on login link");
     }
 
     public void clickOnRegister() {
-        if(newWindow.isDisplayed()){
-            waitToBeClickable(newWindow).click();
-            clickOnRegister();
+        if (newWindow.isDisplayed()) {
+            newWindow.click();
+            clickOnRegistrateLink();
+        } else {
+            clickOnRegistrateLink();
         }
-        else{ clickOnRegister();}
         log.info("Click on registration link");
     }
 

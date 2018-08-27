@@ -7,7 +7,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.Select;
+
 import java.util.List;
+
 import static config.DriverManager.getDriver;
 import static tools.Actions.getInnerHtml;
 import static tools.Waiters.waitToBeClickable;
